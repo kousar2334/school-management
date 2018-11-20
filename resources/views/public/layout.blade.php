@@ -38,7 +38,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<a href="{{URL::to('/login')}}"><i class="glyphicon glyphicon-user" aria-hidden="true"></i>Admin Portal</a>
 					</div>
 					<div class="indicate" >
-						<a href=""><i class="glyphicon glyphicon-education" aria-hidden="true"></i>Student Portal</a>
+						<a href="{{URL::to('/login')}}"><i class="glyphicon glyphicon-education" aria-hidden="true"></i>Student Portal</a>
 					</div>
 
 					<div class="clearfix"></div>
